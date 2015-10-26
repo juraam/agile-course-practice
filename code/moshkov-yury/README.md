@@ -18,8 +18,8 @@
  - Получение значения бита
 
 Все необходимые сведения можно найти в статье
- - ["Битовый массив"][complex] на сайте Wikipedia
- - ["Microsoft bitarray doc"][microdoc]
+ - ["Битовый массив"][wiki] на сайте Wikipedia
+ - ["Описание класса BitArray"][microdoc]
 
 ## Документация разработчика
 
@@ -27,5 +27,5 @@ TBD
 
 <!-- LINKS -->
 
-[complex]: https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0
+[wiki]: https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0
 [microdoc]: https://msdn.microsoft.com/ru-ru/library/system.collections.bitarray(v=vs.110).aspx
